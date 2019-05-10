@@ -1,6 +1,7 @@
 # TurtleSquad
 First game on Unity3D Engine, 2D game about 4 turtles going through a maze of obstacles
-![alt text](chapter.png) ![alt text](gameplay2.png)
+![alt text](chapter.png, gameplay2.png)
+![alt text](gameplay2.png)
 
 ## Links
 
